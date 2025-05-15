@@ -1,0 +1,37 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#1F2937"/>
+  <rect x="50" y="50" width="1100" height="530" rx="15" fill="#111827" stroke="#374151" stroke-width="2"/>
+  
+  <!-- Logo and Title Container -->
+  <g transform="translate(150, 150)">
+    <!-- Logo -->
+    <path d="M30 80L50 40H190L210 80M30 80L80 200H160L210 80M30 80H210" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Calculator Symbol -->
+    <path d="M140 120L120 140M140 120L160 140M140 120V100" stroke="#3B83F6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Title Text -->
+    <text x="250" y="100" font-family="Arial, sans-serif" font-weight="bold" font-size="72" fill="white">Asphalt Calculator</text>
+    
+    <!-- Subtitle -->
+    <text x="250" y="160" font-family="Arial, sans-serif" font-size="36" fill="#9CA3AF">Estimate Materials and Costs</text>
+  </g>
+  
+  <!-- Features -->
+  <g transform="translate(150, 350)">
+    <rect x="0" y="0" width="250" height="100" rx="8" fill="#374151"/>
+    <text x="125" y="40" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="white" text-anchor="middle">Volume Calculation</text>
+    <text x="125" y="70" font-family="Arial, sans-serif" font-size="18" fill="#9CA3AF" text-anchor="middle">Cubic Feet, Yards & Meters</text>
+    
+    <rect x="300" y="0" width="250" height="100" rx="8" fill="#374151"/>
+    <text x="425" y="40" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="white" text-anchor="middle">Weight Estimation</text>
+    <text x="425" y="70" font-family="Arial, sans-serif" font-size="18" fill="#9CA3AF" text-anchor="middle">Pounds, Tons & Metric Tons</text>
+    
+    <rect x="600" y="0" width="250" height="100" rx="8" fill="#374151"/>
+    <text x="725" y="40" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="white" text-anchor="middle">Cost Analysis</text>
+    <text x="725" y="70" font-family="Arial, sans-serif" font-size="18" fill="#9CA3AF" text-anchor="middle">Accurate Project Budgeting</text>
+  </g>
+  
+  <!-- URL -->
+  <text x="600" y="550" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#3B83F6" text-anchor="middle">www.asphalt-calculator.com</text>
+</svg> 

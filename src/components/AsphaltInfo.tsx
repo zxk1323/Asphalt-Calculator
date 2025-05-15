@@ -9,7 +9,7 @@ export default function AsphaltInfo() {
           
           <div className="prose max-w-none text-gray-600">
             <p className="mb-4">
-              The <strong>Asphalt Calculator</strong> enables anyone to accurately calculate the amount of asphalt material needed for paving projects. Whether you're planning a driveway, road, or parking lot project, our calculator provides precise estimates of asphalt volume, weight, and cost.
+              The <strong>Asphalt Calculator</strong> enables anyone to accurately calculate the amount of asphalt material needed for paving projects. Whether you&apos;re planning a driveway, road, or parking lot project, our calculator provides precise estimates of asphalt volume, weight, and cost.
             </p>
             
             <p className="mb-4">
@@ -80,7 +80,7 @@ export default function AsphaltInfo() {
             </div>
             
             <div>
-              <h3 className="text-xl font-semibold mb-3 text-gray-800">What's the difference between hot mix asphalt and cold mix asphalt?</h3>
+              <h3 className="text-xl font-semibold mb-3 text-gray-800">What&apos;s the difference between hot mix asphalt and cold mix asphalt?</h3>
               <p className="text-gray-600">
                 Hot mix asphalt is heated and mixed at temperatures between 300-350°F (150-175°C), providing durability and strength ideal for permanent paving. Cold mix asphalt contains emulsifiers allowing it to be applied at ambient temperatures, making it suitable for temporary repairs and patching. Our calculator works for both types, as the density differences are minimal.
               </p>
@@ -102,7 +102,7 @@ export default function AsphaltInfo() {
             <div className="bg-gray-50 p-6 rounded-lg">
               <h3 className="text-xl font-semibold mb-4 text-gray-800">Cost Planning</h3>
               <p className="text-gray-600">
-                Accurately budget for your paving project by knowing exactly how much asphalt you'll need and what it will cost, helping you compare contractor quotes and material prices.
+                Accurately budget for your paving project by knowing exactly how much asphalt you&apos;ll need and what it will cost, helping you compare contractor quotes and material prices.
               </p>
             </div>
             
@@ -127,7 +127,7 @@ export default function AsphaltInfo() {
           
           <div className="prose max-w-none text-gray-600">
             <p className="mb-6">
-              Whether you're a homeowner planning a driveway, a contractor bidding on a commercial job, or an engineer designing a roadway, our <strong>asphalt calculator</strong> provides the accurate material estimates you need. Simply enter your project dimensions above to get started.
+              Whether you&apos;re a homeowner planning a driveway, a contractor bidding on a commercial job, or an engineer designing a roadway, our <strong>asphalt calculator</strong> provides the accurate material estimates you need. Simply enter your project dimensions above to get started.
             </p>
             
             <p className="mb-6">
@@ -137,7 +137,7 @@ export default function AsphaltInfo() {
             <div className="bg-blue-50 p-6 rounded-lg mb-8">
               <h3 className="text-xl font-semibold mb-3 text-blue-800">Pro Tip</h3>
               <p className="text-blue-700">
-                When planning your asphalt project, it's advisable to order 5-10% more material than the calculated amount to account for waste, spillage, and potential measurement inaccuracies. Our calculator provides precise base estimates, but having a small buffer ensures you won't run short during installation.
+                When planning your asphalt project, it&apos;s advisable to order 5-10% more material than the calculated amount to account for waste, spillage, and potential measurement inaccuracies. Our calculator provides precise base estimates, but having a small buffer ensures you won&apos;t run short during installation.
               </p>
             </div>
             

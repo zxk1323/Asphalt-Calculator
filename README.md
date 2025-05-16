@@ -2,6 +2,10 @@
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Online Calculator
+
+Visit our online asphalt calculator at [www.asphalt-calculator.vip](https://www.asphalt-calculator.vip) to start using the tool directly in your browser.
+
 ## Getting Started
 
 First, run the development server:

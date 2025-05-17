@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   description: "Easy to use asphalt calculator. Effortlessly calculate asphalt materials needed for your driveway, road or parking lot projects. Get accurate cost estimates.",
   keywords: ["asphalt calculator", "asphalt estimator", "paving calculator", "driveway calculator", "asphalt materials", "asphalt cost calculator"],
   authors: [{ name: "Asphalt Calculator Tool" }],
+  alternates: {
+    canonical: 'https://www.asphalt-calculator.vip/'
+  },
   icons: {
     icon: [
       { url: '/favicon.svg' }

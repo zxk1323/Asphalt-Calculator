@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://www.asphalt-calculator.vip/robots.txt', // 请替换为您的实际域名
+    sitemap: 'https://www.asphalt-calculator.vip/sitemap.xml',
   }
 } 

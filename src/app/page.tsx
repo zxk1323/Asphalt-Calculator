@@ -12,17 +12,17 @@ export default function Home() {
       <section className="bg-gradient-to-b from-gray-900 to-gray-800 text-white py-20">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-6">
-            Asphalt Calculator - Estimate Materials and Costs
+            Asphalt Driveway Cost & Tonnage Calculator
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
-            Quickly calculate the amount of asphalt needed for your paving project
+            Calculate asphalt tonnage and estimate costs for your driveway or paving project
           </p>
           <div className="flex justify-center">
             <a 
               href="#calculator" 
               className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-md text-lg font-medium transition duration-300"
             >
-              Start Calculating
+              Calculate Asphalt Tonnage
             </a>
           </div>
         </div>
@@ -50,9 +50,9 @@ export default function Home() {
                   />
                 </svg>
               </div>
-              <h3 className="text-xl font-semibold mb-3">Accurate Calculations</h3>
+              <h3 className="text-xl font-semibold mb-3">Accurate Tonnage Calculation</h3>
               <p className="text-gray-600">
-                Get precise volume and weight calculations for your asphalt project using standard industry density values.
+                Get precise asphalt tonnage calculations for your driveway or paving project using industry-standard density values.
               </p>
             </div>
             
@@ -72,9 +72,9 @@ export default function Home() {
                   />
                 </svg>
               </div>
-              <h3 className="text-xl font-semibold mb-3">Cost Estimation</h3>
+              <h3 className="text-xl font-semibold mb-3">Driveway Cost Estimation</h3>
               <p className="text-gray-600">
-                Easily estimate material costs by entering the price per ton of asphalt for better budget planning.
+                Calculate your asphalt driveway cost by entering the current price per ton. Perfect for budget planning and contractor quotes.
               </p>
             </div>
             
@@ -94,9 +94,9 @@ export default function Home() {
                   />
                 </svg>
               </div>
-              <h3 className="text-xl font-semibold mb-3">Unit Conversion</h3>
+              <h3 className="text-xl font-semibold mb-3">Easy Unit Conversion</h3>
               <p className="text-gray-600">
-                Switch between imperial and metric units with ease. Get results in cubic feet, cubic yards, cubic meters, pounds, tons, and more.
+                Switch between tons and metric tons with ease. Perfect for calculating asphalt tonnage for any project size.
               </p>
             </div>
           </div>

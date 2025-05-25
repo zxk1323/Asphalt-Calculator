@@ -9,7 +9,7 @@ export default function AsphaltInfo() {
           
           <div className="prose max-w-none text-gray-600">
             <p className="mb-4">
-              Our <strong>asphalt driveway cost calculator</strong> helps you accurately estimate the tonnage and cost of asphalt needed for your paving project. Whether you're planning a new driveway, road, or parking lot, our calculator provides precise estimates of asphalt tonnage and total project costs.
+              Our <strong>asphalt driveway cost calculator</strong> helps you accurately estimate the tonnage and cost of asphalt needed for your paving project. Whether you&apos;re planning a new driveway, road, or parking lot, our calculator provides precise estimates of asphalt tonnage and total project costs.
             </p>
             
             <p className="mb-4">

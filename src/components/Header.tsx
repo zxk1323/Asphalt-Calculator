@@ -11,20 +11,11 @@ export default function Header() {
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
         <div className="flex items-center">
           <Link href="/" className="flex items-center">
-            <svg 
-              className="w-8 h-8 mr-2" 
-              viewBox="0 0 24 24" 
-              fill="none" 
-              xmlns="https://www.w3.org/2000/svg"
-            >
-              <path 
-                d="M3 8L5 4H19L21 8M3 8L8 20H16L21 8M3 8H21" 
-                stroke="currentColor" 
-                strokeWidth="2" 
-                strokeLinecap="round" 
-                strokeLinejoin="round"
-              />
-            </svg>
+            <img 
+              src="/logo.svg" 
+              alt="Asphalt Calculator Logo" 
+              className="w-8 h-8 mr-2"
+            />
             <span className="text-xl font-bold">Asphalt Calculator</span>
           </Link>
         </div>

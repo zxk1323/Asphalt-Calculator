@@ -15,10 +15,10 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: '/favicon.svg' }
+      { url: '/logo.svg' }
     ],
     apple: [
-      { url: '/favicon.svg' }
+      { url: '/logo.svg' }
     ]
   },
   openGraph: {
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/og-image.svg",
+        url: "/logo.svg",
         width: 1200,
         height: 630,
         alt: "Asphalt Calculator - Calculate Tonnage and Costs"
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Asphalt Calculator - Driveway Cost & Tonnage Calculator",
     description: "Calculate asphalt tonnage and costs instantly. Free calculator for driveways, roads & parking lots. Get accurate material estimates.",
-    images: ["/og-image.svg"]
+    images: ["/logo.svg"]
   },
   robots: {
     index: true,
@@ -61,7 +61,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/favicon.svg" />
+        <link rel="icon" href="/logo.svg" />
         <JsonLd />
       </head>
       <body className={inter.className}>{children}</body>

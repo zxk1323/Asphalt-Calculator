@@ -20,7 +20,7 @@ export default function JsonLd() {
       "Imperial and metric unit conversion",
       "Instant calculations with no page reload"
     ],
-    "screenshot": "https://www.asphalt-calculator.vip/og-image.svg",
+    "screenshot": "https://www.asphalt-calculator.vip/logo.svg",
     "potentialAction": {
       "@type": "UseAction",
       "target": "https://www.asphalt-calculator.vip/#calculator"
